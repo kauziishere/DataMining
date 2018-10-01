@@ -1,2 +1,2 @@
 # DataMining
-Data mining Programs for Data Mining Course Lab
+Implementation of Data mining Algorithms with Python3 and Python Standard Library.
