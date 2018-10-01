@@ -76,7 +76,6 @@ def Rule_Gen(FI,conf):
 				print LHS,"-->", RHS,(float(item_cnt) / LHS_cnt)
 
 
-
 sup_cnt = input("Enter the sup_cnt: ")
 conf_pcnt = input("Enter the cnf_pcnt: ")
 print Init_item()
